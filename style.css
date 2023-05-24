@@ -8,8 +8,8 @@
     display: flex;
     align-items: center;
 
-
 }
+
 
 /* IMAGES */
 
@@ -24,4 +24,104 @@
 
 .footer {
    padding-left: 24px;
+}
+/* Exhibit */
+
+#exhibit {
+    overflow: auto;
+}
+.video {
+    display: inline-block;
+    position: relative;
+    float: right;
+}
+.video  .dummy {
+    padding-left: 24px;
+}
+.pic-small {
+    display: inline-block;
+    position: relative;
+    float: right;
+}
+.pic-small  .dummy {
+    padding-left: 24px;
+}
+.pic-small {
+    display: inline-block;
+    position: relative;
+    float: right;
+  
+}
+.pic-small  .dummy {
+    padding-left: 24px;
+}
+.v-spacer {
+    display: inline-block;
+    position: relative;
+    float: right;
+}
+.v-spacer  .dummy {
+    padding-left: 24px;
+}
+.h-spacer {
+    display: inline-block;
+    position: relative;
+    float: right;
+}
+.h-spacer  .dummy {
+    padding-left: 24px;
+}
+
+/* Learning */
+#learning {
+    overflow: auto;
+}
+.pic-large {
+    display: inline-block;
+    position: relative;
+    float: left;
+}
+.video  .dummy {
+    padding-left: 24px;
+}
+.pic-small {
+    display: inline-block;
+    position: relative;
+    float: right;
+}
+.pic-small  .dummy {
+    padding-left: 24px;
+}
+.pic-small {
+    display: inline-block;
+    position: relative;
+    float: right;
+  
+}
+.pic-small  .dummy {
+    padding-left: 24px;
+}
+.v-spacer {
+    display: inline-block;
+    position: relative;
+    float: right;
+}
+.v-spacer  .dummy {
+    padding-left: 24px;
+}
+.h-spacer {
+    display: inline-block;
+    position: relative;
+    float: right;
+}
+.h-spacer  .dummy {
+    padding-left: 24px;
+}
+.g-spacer {
+    display: inline-block;
+    position: relative;
+    float: right;
+}
+.g-spacer  .dummy {
+    padding-left: 24px;
 }
