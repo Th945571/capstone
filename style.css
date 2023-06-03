@@ -15,6 +15,7 @@
 }
 .text {
     padding-bottom: 5px;
+    
    
 }
 
@@ -27,16 +28,30 @@ nav {
 
 /* BANNER */
 
+.container {
+   
+    align-items: center;
+  
+  
+}   
+
 .image {
     width: 60%;
-    padding: 32px 24px;
+    padding: 24px 32px;
     display: block;
-    background-color: lightgray;
+    background-color:  lightgray;
 }
-#color {
-    background-color: lightgray;
-    height: 100%;
+
+.banner {
+        margin-top: 74px;
+        padding: 40px 0 100px 0;
+        background-color: lightgray;  
 }
+
+
+
+
+
 #button {
     background-color: rgb(66, 65, 65);
     color: white;
@@ -51,10 +66,17 @@ nav {
 .image2 {
     width: 60%;
     padding: 32px 24px;
-    display: inline;
+    display: inline-block;
     float: left;
-    text-align: left;
+    
 }
+
+.container {
+   
+    align-items: center;
+    display: inline-flex;
+    float: center;
+}   
 
 
 
