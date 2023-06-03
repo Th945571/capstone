@@ -31,8 +31,10 @@ nav {
 .container {
    
     align-items: center;
+    display: inline-flex;
+    float: center;
   
-  
+
 }   
 
 .image {
